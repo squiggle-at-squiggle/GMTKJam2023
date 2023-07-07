@@ -17,8 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_parent_block","order":5,"path":"objects/obj_parent_block/obj_parent_block.yy",},
     {"name":"obj_car","order":1,"path":"objects/obj_car/obj_car.yy",},
     {"name":"Level1","order":1,"path":"rooms/Level1/Level1.yy",},
+    {"name":"obj_parent_ghost","order":4,"path":"objects/obj_parent_ghost/obj_parent_ghost.yy",},
     {"name":"obj_start","order":2,"path":"objects/obj_start/obj_start.yy",},
     {"name":"obj_finish","order":3,"path":"objects/obj_finish/obj_finish.yy",},
   ],
