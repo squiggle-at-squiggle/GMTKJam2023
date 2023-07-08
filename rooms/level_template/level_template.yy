@@ -14,6 +14,8 @@
     {"name":"inst_527A1653","path":"rooms/level_template/level_template.yy",},
     {"name":"inst_22C9CC83","path":"rooms/level_template/level_template.yy",},
     {"name":"inst_70273F4E","path":"rooms/level_template/level_template.yy",},
+    {"name":"inst_22C9CC83","path":"rooms/level_template/level_template.yy",},
+    {"name":"inst_70273F4E","path":"rooms/level_template/level_template.yy",},
   ],
   "isDnd": false,
   "layers": [
