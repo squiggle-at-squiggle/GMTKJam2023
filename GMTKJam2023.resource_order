@@ -17,6 +17,8 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Sprite_Car_Small","order":6,"path":"sprites/Sprite_Car_Small/Sprite_Car_Small.yy",},
+    {"name":"pth_car_path_1up","order":1,"path":"paths/pth_car_path_1up/pth_car_path_1up.yy",},
     {"name":"obj_parent_block","order":5,"path":"objects/obj_parent_block/obj_parent_block.yy",},
     {"name":"obj_car","order":1,"path":"objects/obj_car/obj_car.yy",},
     {"name":"spr_placeholder_background","order":1,"path":"sprites/spr_placeholder_background/spr_placeholder_background.yy",},
