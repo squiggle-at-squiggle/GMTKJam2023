@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_piece_selector",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -26,11 +26,14 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [],
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"current_block_sprite","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"spr_placeholder_block","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"current_ghost","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"obj_parent_ghost","varType":5,},
+  ],
   "solid": false,
   "spriteId": {
-    "name": "spr_placeholder_selector",
-    "path": "sprites/spr_placeholder_selector/spr_placeholder_selector.yy",
+    "name": "spr_placeholder_block",
+    "path": "sprites/spr_placeholder_block/spr_placeholder_block.yy",
   },
   "spriteMaskId": null,
   "visible": true,
