@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_block_2_3",
+  "name": "obj_block_2_1b",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_track_2_3",
-    "path": "sprites/spr_track_2_3/spr_track_2_3.yy",
+    "name": "spr_track_2_1b",
+    "path": "sprites/spr_track_2_1b/spr_track_2_1b.yy",
   },
   "spriteMaskId": null,
   "visible": true,

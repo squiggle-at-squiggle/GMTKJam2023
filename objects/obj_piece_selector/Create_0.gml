@@ -1,14 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-var _road_blocks_array = [ [obj_ghost_01, Sprite_Track_01],
-						   [obj_ghost_02, Sprite_Track_02],
-						   [obj_ghost_2_1,Sprite_Track_2_1],
-						   [obj_ghost_02_2, Sprite_Track_2_2],
-						   [obj_ghost_02_3,Sprite_Track_2_3],
-						   [obj_ghost_02_4,Sprite_Track_2_4],
-						   [obj_ghost_02_5,Sprite_Track_2_5],
-						  ];
+var _road_blocks_array = [[obj_ghost_2_1b,spr_track_2_1b],
+						  [obj_ghost_2_2a, spr_track_2_2a],
+						  [obj_ghost_2_3,spr_track_2_3],
+						 ];
 
 var _new_block_index = irandom(array_length(_road_blocks_array)-1);
 var _new_block = _road_blocks_array[_new_block_index][0];

@@ -1,17 +1,20 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_block_2_3",
+  "name": "obj_ghost_2_3",
   "eventList": [],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_ghost","path":"objects/obj_parent_ghost/obj_parent_ghost.yy",},"propertyId":{"name":"create_block","path":"objects/obj_parent_ghost/obj_parent_ghost.yy",},"value":"obj_block_2_3",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_ghost","path":"objects/obj_parent_ghost/obj_parent_ghost.yy",},"propertyId":{"name":"block_path","path":"objects/obj_parent_ghost/obj_parent_ghost.yy",},"value":"pth_car_path_2_3",},
+  ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
   "parentObjectId": {
-    "name": "obj_parent_block",
-    "path": "objects/obj_parent_block/obj_parent_block.yy",
+    "name": "obj_parent_ghost",
+    "path": "objects/obj_parent_ghost/obj_parent_ghost.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
