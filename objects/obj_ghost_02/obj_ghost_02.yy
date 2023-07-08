@@ -4,7 +4,9 @@
   "name": "obj_ghost_02",
   "eventList": [],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_ghost","path":"objects/obj_parent_ghost/obj_parent_ghost.yy",},"propertyId":{"name":"create_block","path":"objects/obj_parent_ghost/obj_parent_ghost.yy",},"value":"obj_block_02",},
+  ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
@@ -29,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite_Track_01",
-    "path": "sprites/Sprite_Track_01/Sprite_Track_01.yy",
+    "name": "Sprite_Track_02",
+    "path": "sprites/Sprite_Track_02/Sprite_Track_02.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -4,6 +4,7 @@
   "name": "obj_piece_selector",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -26,15 +27,6 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"road_blocks_array","filters":[],"listItems":[
-        "obj_ghost_01",
-        "obj_ghost_02",
-        "obj_ghost_02_2",
-        "obj_ghost_02_3",
-        "obj_ghost_02_4",
-        "obj_ghost_02_5",
-        "obj_ghost_2_1",
-      ],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"obj_ghost_01","varType":6,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"current_block_sprite","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"spr_placeholder_block","varType":5,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"current_ghost","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"obj_parent_ghost","varType":5,},
   ],
