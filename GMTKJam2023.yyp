@@ -35,6 +35,7 @@
   },
   "resources": [
     {"id":{"name":"Sprite_Car_Small","path":"sprites/Sprite_Car_Small/Sprite_Car_Small.yy",},},
+    {"id":{"name":"pth_car_path_1up","path":"paths/pth_car_path_1up/pth_car_path_1up.yy",},},
     {"id":{"name":"obj_parent_block","path":"objects/obj_parent_block/obj_parent_block.yy",},},
     {"id":{"name":"obj_car","path":"objects/obj_car/obj_car.yy",},},
     {"id":{"name":"spr_placeholder_background","path":"sprites/spr_placeholder_background/spr_placeholder_background.yy",},},
@@ -42,7 +43,7 @@
     {"id":{"name":"obj_button_start","path":"objects/obj_button_start/obj_button_start.yy",},},
     {"id":{"name":"level_template","path":"rooms/level_template/level_template.yy",},},
     {"id":{"name":"obj_parent_ghost","path":"objects/obj_parent_ghost/obj_parent_ghost.yy",},},
-    {"id":{"name":"pth_start_path_up","path":"paths/pth_start_path_up/pth_start_path_up.yy",},},
+    {"id":{"name":"pth_start_path_stage1","path":"paths/pth_start_path_stage1/pth_start_path_stage1.yy",},},
     {"id":{"name":"spr_placeholder_block","path":"sprites/spr_placeholder_block/spr_placeholder_block.yy",},},
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
     {"id":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},},
