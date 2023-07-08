@@ -1,1 +1,1 @@
-instance_create_layer(mouse_x, mouse_y, "Tiles", obj_parent_ghost);
+instance_create_layer(mouse_x, mouse_y, "Ghost", obj_parent_ghost);
