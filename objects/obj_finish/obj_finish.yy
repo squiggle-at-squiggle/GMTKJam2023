@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_placeholder_stop",
+    "path": "sprites/spr_placeholder_stop/spr_placeholder_stop.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
