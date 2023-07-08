@@ -50,12 +50,13 @@
     {"id":{"name":"spr_placeholder_selector","path":"sprites/spr_placeholder_selector/spr_placeholder_selector.yy",},},
     {"id":{"name":"obj_piece_selector","path":"objects/obj_piece_selector/obj_piece_selector.yy",},},
     {"id":{"name":"obj_finish","path":"objects/obj_finish/obj_finish.yy",},},
+    {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"level_template","path":"rooms/level_template/level_template.yy",},},
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+    {"roomId":{"name":"level_template","path":"rooms/level_template/level_template.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
