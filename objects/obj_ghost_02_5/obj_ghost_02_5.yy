@@ -6,6 +6,7 @@
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_ghost","path":"objects/obj_parent_ghost/obj_parent_ghost.yy",},"propertyId":{"name":"create_block","path":"objects/obj_parent_ghost/obj_parent_ghost.yy",},"value":"obj_block_2_5",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_ghost","path":"objects/obj_parent_ghost/obj_parent_ghost.yy",},"propertyId":{"name":"block_path","path":"objects/obj_parent_ghost/obj_parent_ghost.yy",},"value":"pth_car_track_2_5",},
   ],
   "parent": {
     "name": "Objects",
