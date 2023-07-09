@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_track_2_1a",
-    "path": "sprites/spr_track_2_1a/spr_track_2_1a.yy",
+    "name": "spr_track_2_1b",
+    "path": "sprites/spr_track_2_1b/spr_track_2_1b.yy",
   },
   "spriteMaskId": {
     "name": "spr_track_2_1a",
