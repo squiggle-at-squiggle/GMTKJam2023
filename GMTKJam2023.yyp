@@ -103,6 +103,7 @@
     {"id":{"name":"spr_track_0_0","path":"sprites/spr_track_0_0/spr_track_0_0.yy",},},
     {"id":{"name":"pth_car_path_3_1b","path":"paths/pth_car_path_3_1b/pth_car_path_3_1b.yy",},},
     {"id":{"name":"obj_block_3_4","path":"objects/obj_block_3_4/obj_block_3_4.yy",},},
+    {"id":{"name":"obj_menu_music","path":"objects/obj_menu_music/obj_menu_music.yy",},},
     {"id":{"name":"sfx_car_engine3","path":"sounds/sfx_car_engine3/sfx_car_engine3.yy",},},
     {"id":{"name":"obj_ghost_2_2b","path":"objects/obj_ghost_2_2b/obj_ghost_2_2b.yy",},},
     {"id":{"name":"pth_car_path_2_1b","path":"paths/pth_car_path_2_1b/pth_car_path_2_1b.yy",},},
