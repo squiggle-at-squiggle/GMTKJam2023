@@ -37,6 +37,7 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"stage_path","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"pth_start_path_stage1","varType":5,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"roads_aligned","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"False","varType":3,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"new_path","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"is_one_by_two","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"True","varType":3,},
   ],
   "solid": false,
   "spriteId": {

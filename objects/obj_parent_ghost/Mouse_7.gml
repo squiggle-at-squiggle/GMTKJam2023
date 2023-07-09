@@ -1,5 +1,8 @@
 if(not_overlapping){
-	instance_create_layer(x,y,"Tiles",create_block);
+	instance_create_layer(x,y,"Tiles",create_block, 
+	{
+		image_angle: image_angle,
+	});
 
 	path_shift(new_path,x,y);
 	path_append(stage_path, new_path);
