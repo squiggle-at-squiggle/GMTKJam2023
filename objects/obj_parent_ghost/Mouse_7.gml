@@ -6,4 +6,5 @@ if(not_overlapping){
 	path_delete(new_path);
 
 	instance_destroy();
+	exit;
 }
