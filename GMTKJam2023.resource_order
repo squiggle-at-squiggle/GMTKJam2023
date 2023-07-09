@@ -82,6 +82,7 @@
     {"name":"spr_track_0_0","order":25,"path":"sprites/spr_track_0_0/spr_track_0_0.yy",},
     {"name":"pth_car_path_3_1b","order":14,"path":"paths/pth_car_path_3_1b/pth_car_path_3_1b.yy",},
     {"name":"obj_block_3_4","order":37,"path":"objects/obj_block_3_4/obj_block_3_4.yy",},
+    {"name":"obj_menu_music","order":47,"path":"objects/obj_menu_music/obj_menu_music.yy",},
     {"name":"obj_ghost_2_2b","order":30,"path":"objects/obj_ghost_2_2b/obj_ghost_2_2b.yy",},
     {"name":"pth_car_path_2_1b","order":10,"path":"paths/pth_car_path_2_1b/pth_car_path_2_1b.yy",},
     {"name":"spr_track_3_2b","order":15,"path":"sprites/spr_track_3_2b/spr_track_3_2b.yy",},
