@@ -1,10 +1,16 @@
 if(not_overlapping){
-	instance_create_layer(x,y,"Tiles",create_block);
+	instance_create_layer(x,y,"Tiles",create_block, 
+	{
+		image_angle: image_angle,
+	});
 
-	var _pth_new_path = path_duplicate(block_path);
-	path_shift(_pth_new_path,x,y);
-	path_append(stage_path,_pth_new_path);
-	path_delete(_pth_new_path);
+	new_path = path_duplicate(create_path);
+	
+	path_shift(new_path,x,y);
+	path_rotate(new_path, image_angle);
+	path_append(stage_path, new_path);
+	path_delete(new_path);
 
 	instance_destroy();
+	exit;
 }
