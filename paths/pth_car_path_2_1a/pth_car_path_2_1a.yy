@@ -1,7 +1,7 @@
 {
   "resourceType": "GMPath",
   "resourceVersion": "1.0",
-  "name": "pth_car_path_2_3",
+  "name": "pth_car_path_2_1a",
   "closed": false,
   "kind": 1,
   "parent": {
@@ -9,10 +9,10 @@
     "path": "folders/Paths.yy",
   },
   "points": [
-    {"speed":100.0,"x":14.334839,"y":31.740128,},
-    {"speed":100.0,"x":23.180634,"y":16.207077,},
+    {"speed":100.0,"x":0.33483887,"y":16.740128,},
+    {"speed":100.0,"x":33.180634,"y":22.207077,},
     {"speed":100.0,"x":44.810608,"y":15.845856,},
-    {"speed":100.0,"x":49.964783,"y":31.079346,},
+    {"speed":100.0,"x":45.964783,"y":1.0793457,},
   ],
   "precision": 4,
 }
