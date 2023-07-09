@@ -5,14 +5,11 @@ if(not_overlapping){
 		image_angle: image_angle,
 	});
 
-	new_path = path_duplicate(create_path);
-	path_shift(new_path,x,y);
-	path_rotate(new_path, image_angle);
+	path_shift(new_path,x,y+16);
 	
 	// check if beginning or end is closer
 	var _old_x = path_get_x(stage_path,1);
 	var _old_y = path_get_y(stage_path,1);
-	show_debug_message(_old_x);
 	var _new_bx = path_get_x(new_path,0);
 	var _new_by = path_get_y(new_path,0);
 	var _new_ex = path_get_x(new_path,1);
@@ -23,7 +20,6 @@ if(not_overlapping){
 	}
 	
 	path_append(stage_path, new_path);
-	draw_path(stage_path, x,y, true);
 	path_delete(new_path);
 
 	instance_destroy();
