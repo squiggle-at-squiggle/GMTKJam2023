@@ -8,6 +8,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":8,"eventType":6,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":27,"eventType":10,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":82,"eventType":10,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -32,8 +33,10 @@
   "properties": [
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"not_overlapping","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"True","varType":3,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"create_block","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"obj_block_2_1b","varType":5,},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"block_path","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"pth_car_path_1up","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"create_path","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"pth_car_path_1up","varType":5,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"stage_path","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"pth_start_path_stage1","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"roads_aligned","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"False","varType":3,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"new_path","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"","varType":5,},
   ],
   "solid": false,
   "spriteId": {

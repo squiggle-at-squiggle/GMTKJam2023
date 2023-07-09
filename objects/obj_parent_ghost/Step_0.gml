@@ -7,3 +7,5 @@ if(place_meeting(x, y, obj_parent_block)) {
 else {
 	not_overlapping = true;
 }
+
+//	path_shift(_pth_new_path,x,y);
