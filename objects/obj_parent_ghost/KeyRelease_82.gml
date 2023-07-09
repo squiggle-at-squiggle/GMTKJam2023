@@ -1,2 +1,2 @@
 image_angle = image_angle - 90
-// set new path orientation to own orientation
+new_path.path_orientation = image_angle
