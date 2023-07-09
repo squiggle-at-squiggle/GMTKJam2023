@@ -12,7 +12,7 @@ var _road_blocks_array = [[obj_ghost_2_1b,spr_track_2_1b],
 						  [obj_ghost_3_2a,spr_track_3_2a],
 						  [obj_ghost_3_2b,spr_track_3_2b],
 						  [obj_ghost_3_3a,spr_track_3_3a],
-						  [obj_ghost_3_3b,spr_track_3_3b]
+						  [obj_ghost_3_3b,spr_track_3_3b],
 						  [obj_ghost_3_4,spr_track_3_4],
 						  [obj_ghost_3_5,spr_track_3_5],
 						 ];
