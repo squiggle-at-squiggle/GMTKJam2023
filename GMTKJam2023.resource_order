@@ -37,6 +37,7 @@
     {"name":"spr_track_3_2a","order":24,"path":"sprites/spr_track_3_2a/spr_track_3_2a.yy",},
     {"name":"spr_track_4_1a","order":18,"path":"sprites/spr_track_4_1a/spr_track_4_1a.yy",},
     {"name":"spr_button","order":5,"path":"sprites/spr_button/spr_button.yy",},
+    {"name":"spr_menu_bar","order":37,"path":"sprites/spr_menu_bar/spr_menu_bar.yy",},
     {"name":"fnt_title","order":1,"path":"fonts/fnt_title/fnt_title.yy",},
     {"name":"obj_start","order":2,"path":"objects/obj_start/obj_start.yy",},
     {"name":"spr_track_2_3","order":28,"path":"sprites/spr_track_2_3/spr_track_2_3.yy",},

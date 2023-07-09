@@ -57,6 +57,7 @@
     {"id":{"name":"spr_track_4_1a","path":"sprites/spr_track_4_1a/spr_track_4_1a.yy",},},
     {"id":{"name":"spr_placeholder_block","path":"sprites/spr_placeholder_block/spr_placeholder_block.yy",},},
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
+    {"id":{"name":"spr_menu_bar","path":"sprites/spr_menu_bar/spr_menu_bar.yy",},},
     {"id":{"name":"fnt_title","path":"fonts/fnt_title/fnt_title.yy",},},
     {"id":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},},
     {"id":{"name":"spr_track_2_3","path":"sprites/spr_track_2_3/spr_track_2_3.yy",},},
